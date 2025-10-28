@@ -1,6 +1,9 @@
 # Explorando-Workflows-Automatizados-com-AWS-Step-Functions
 Documentação da prática de automação de workflows Serverless na AWS utilizando Step Functions, com foco em lógica de estados e tratamento de erros.
 
+**Autor:** Bruna Lima Prado
+**Linkedin:** www.linkedin.com/in/brunalimaprado
+
 ## 🌟 Introdução e Objetivo
 
 Este repositório documenta a conclusão da atividade prática do bootcamp **CodeGirls DIO em parceria com a AWS** com foco na aplicação e consolidação de **Workflows Automatizados utilizando o AWS Step Functions**.
